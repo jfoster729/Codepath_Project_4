@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://submissions.us-east-1.linodeobjects.com/and102/HgJFtK_3.gif
+https://submissions.us-east-1.linodeobjects.com/and102/91na1XMo.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
